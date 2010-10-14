@@ -1,0 +1,20 @@
+=head1 Milton Keynes Perl Mongers Web Site Git Repository
+
+=head2 Location
+
+This repository lives at L<< git://git.scrubhole.org/miltonkeynes-pm.git >>.
+
+=head2 About
+
+This repository contains everything needed to build and maintain the
+Web site for Milton Keynes Perl Mongers: L<< http://miltonkeynes.pm.org >>.
+
+=head2 Subdirectories
+
+=over
+
+=item web
+
+The document root for files to serve over HTTP
+
+=back
