@@ -1,0 +1,39 @@
+=head1 Organising Milton Keynes Perl Mongers Technical Meetings
+
+=head2 Before the Event
+
+=head3 Finding Speakers
+
+=head3 Finding a Venue
+
+and projector
+
+=head3 Announcing the Meeting
+
+mailing list
+
+web page
+
+other sites (eg. lanyrd)
+
+=head3 Helping People Attend
+
+directions
+
+car; public transport
+
+lifts (usually from MK Central station)
+
+phone number in case of help
+
+=head2 On the Day
+
+Time limits discussed with each speaker beforehand, five minute warnings
+
+A conveniently placed break
+
+Make sure people know where to go afterwards and have someone to take them there
+
+=head2 After the Event
+
+Add slides to Web site
