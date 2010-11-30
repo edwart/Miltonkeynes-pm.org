@@ -13,6 +13,10 @@ Web site for Milton Keynes Perl Mongers: L<< http://miltonkeynes.pm.org >>.
 
 =over
 
+=item organisation
+
+Organisational documents to help our group function
+
 =item web
 
 The document root for files to serve over HTTP
