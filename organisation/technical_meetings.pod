@@ -4,6 +4,34 @@
 
 =head3 Finding Speakers
 
+=over
+
+=item *
+
+Ask people who have spoken before.
+
+=item *
+
+Flatter people in the pub at social meetings and tell them that you
+want to hear them give a talk.
+
+=item *
+
+Ask on IRC (hang around for a few hours to let people reply) and the
+mailing list.
+
+=item *
+
+Ask people who live nearby who have done interesting things with Perl,
+such as members of other Mongers groups.
+
+=item *
+
+Put out a call for speakers anywhere appropriate, such as
+L<< Lanyrd|http://lanyrd.com/topics/perl/calls/ >>.
+
+=back
+
 =head3 Finding a Venue
 
 and projector
