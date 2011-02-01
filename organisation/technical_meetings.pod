@@ -28,7 +28,8 @@ such as members of other Mongers groups.
 =item *
 
 Put out a call for speakers anywhere appropriate, such as
-L<< Lanyrd|http://lanyrd.com/topics/perl/calls/ >>.
+L<< Lanyrd|http://lanyrd.com/topics/perl/calls/ >> or
+L<< The H|http://www.h-online.com/open/features/The-H-Community-Calendar-February-2011-1179460.html >>.
 
 =back
 
